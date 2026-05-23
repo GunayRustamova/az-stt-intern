@@ -1,0 +1,3 @@
+﻿Model,WER (%),CER (%),Test nümunəsi,Train data
+whisper-large-v3 (zero-shot),19.86,4.76,100,Yoxdur (zero-shot)
+"whisper-small (fine-tuned, 200 nümunə)",44.01,13.68,100,200 nümunə (az_az)
