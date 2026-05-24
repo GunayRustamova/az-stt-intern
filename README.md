@@ -46,13 +46,18 @@ Açıq mənbəli Whisper modelləri əsasında Azərbaycan dili üçün avtomati
 pip install -r requirements.txt
 
 # Hissə A
-# Kaggle-da part_a/part_a.ipynb faylını açıb "Run All" edin
+# 1. Kaggle.com → "Create New Notebook" → File → Import Notebook
+# 2. part_a/part_a.ipynb faylını yüklə
+# 3. Settings → Accelerator → GPU T4 x2 seç
+# 4. Run All
 
-# Hissə B  
-# Kaggle-da part_b/part_b.ipynb faylını açıb "Run All" edin
+# Hissə B (eyni addımlar, part_b/part_b.ipynb ilə)
+# 1. Kaggle.com → "Create New Notebook" → File → Import Notebook  
+# 2. part_b/part_b.ipynb faylını yüklə
+# 3. Settings → Accelerator → GPU T4 x2 seç
+# 4. Run All 
 ```
 
-> **Qeyd:** Kaggle GPU T4 x2 ilə test edilmişdir.
 
 ---
 
